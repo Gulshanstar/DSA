@@ -1,5 +1,5 @@
 # DSA
-<!-- Binary Search Problems -->
+###  Binary Search Problems
 Kaise pahechanenge? - 
 			1. pattern1:- normal sorted arrray
 			2. p2:- increase phir decrease pattern(peak mountain)
@@ -20,3 +20,8 @@ Kaise pahechanenge? -
 17. Ship Package.
 18. Aggressive cows(yahan se min me sabse max)
 19. KOKO Eating Banana.
+
+-----------------------------
+
+20. segregate 0 and 1.
+21. 
