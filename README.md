@@ -1,11 +1,11 @@
 # DSA
 ###  Binary Search Problems
-<!Kaise pahechanenge? - 
+Kaise pahechanenge? - 
 			1. pattern1:- normal sorted arrray
 			2. p2:- increase phir decrease pattern(peak mountain)
 			3. two increasing pattern in an array(rotated array)
 			4. max me sabse min possible kiya hai is type ka problem.(mltb max ka min)
-			5. min ka max!>
+			5. min ka max
 
 7. Binary search
 8. First and last position of elements in sorted array. i/p: [5,7,7,8,8,10] 0/p:- [3,4]
